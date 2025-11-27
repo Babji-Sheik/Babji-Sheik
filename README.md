@@ -5,12 +5,19 @@ Full-Stack Engineer • AI Integrations • Salesforce Flows & Apex • Node.js 
 👨‍💻 About Me
 
 🔹 Full-Stack & Integration Engineer with 5+ years of experience building scalable systems using React, Node.js, Python, SQL, ETL pipelines, and enterprise-level integrations.
+
 🔹 Strong focus on system design, automation, performance optimization, API engineering, and event-driven workflows.
+
 🔹 Deep experience building Salesforce integrations — including Custom Objects, Flows, Apex, REST services, Outbound Webhooks, Zapier/Make, and n8n automation.
+
 🔹 Skilled in LLM-powered workflows: classification, summarization, dynamic field generation, retrieval, AI-assisted decision automation.
+
 🔹 Architected full-stack web applications, ETL pipelines, microservices, and AI-enabled internal tools for enterprise teams.
+
 🔹 Hands-on with CI/CD pipelines, GitHub Actions, Azure DevOps, Docker, and cloud deployments.
+
 🔹 Passionate about scalability, clean architecture, debugging complex integrations, and building automation that solves real business problems.
+
 🔹 Known for breaking down complex systems into clear, actionable steps — and delivering fast with high quality.
 
 🛠 Tech Stack & Tools
